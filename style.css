@@ -22,8 +22,9 @@ nav a.upperlinks {
   padding-right: 10px;
 }
 
-p {
-  text-align: center;
+figcaption {
+  font-size: 10px'
+  text-align: center; 
 }
 
 #featured-property p {
