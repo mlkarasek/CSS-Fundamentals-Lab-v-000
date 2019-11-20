@@ -43,7 +43,7 @@ figcaption {
 
 #footer {
   width: 25%;
-  display: block;
+  display: flex;
   float: left;
   text-align: center;
 }
