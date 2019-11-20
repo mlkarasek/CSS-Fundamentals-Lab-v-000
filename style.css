@@ -9,11 +9,15 @@ h1 {
 }
 
 img {
+  display: block;
+  margin: 0 auto;
+}
+
+nav {
   text-align: center;
 }
 
-nav a {
-  text-align: center;
+nav a.upperlinks {
   background: grey
   padding-left: 10px
   padding-right: 10px;
