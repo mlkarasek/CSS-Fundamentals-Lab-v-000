@@ -45,5 +45,5 @@ figcaption {
   width: 25%;
   display: flex;
   float: left;
-  text-align: center;
+  align-items: center;
 }
