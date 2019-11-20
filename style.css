@@ -39,3 +39,10 @@ figcaption {
   width: 100%;
   float: left;
 }
+
+#details div.footer-element {
+  width: 25%;
+  display: block;
+  float: left;
+  text-align: center;
+}
