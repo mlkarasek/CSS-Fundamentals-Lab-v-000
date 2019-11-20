@@ -8,6 +8,15 @@ h1 {
   text-align: center;
 }
 
+p {
+  text-align: center;
+}
+
 #featured-property p {
   width: 800px;
+}
+
+#details {
+  display: block;
+  float: left;
 }
