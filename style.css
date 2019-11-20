@@ -4,10 +4,10 @@ body {
   margin: 0;
 }
 
-#header {
-  margin: center;
+h1 {
+  text-align: center;
 }
 
-#img {
-  margin: center; 
+#featured-property p {
+  width: 800px;
 }
