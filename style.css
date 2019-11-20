@@ -17,7 +17,9 @@ nav {
 }
 
 nav a.upperlinks {
-  background: grey
+  background: #DC143C
+  padding-left: 10px
+  padding-right: 10px;
 }
 
 p {
